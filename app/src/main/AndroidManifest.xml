@@ -12,7 +12,7 @@
         <activity
             android:name=".ContributeActivity"
             android:exported="true"
-            android:label="@string/info"/>
+            android:label="@string/info" />
         <activity
             android:name=".PreventionActivity"
             android:exported="true"

@@ -26,4 +26,11 @@
 
 
     <string name="causesPage">Causes</string>
+    <string name="preventionPage">Prevention</string>
+    <string name="contributePage">Contribute</string>
+    <string name="payment_CardName">Card Name</string>
+    <string name="payment_CardNum">Card Number</string>
+    <string name="payment_cvv">CVV</string>
+    <string name="payment_expiry">MM/YY</string>
+    <string name="payment_btn">Donate</string>
 </resources>
