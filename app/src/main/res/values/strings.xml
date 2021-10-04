@@ -1,5 +1,6 @@
 <resources>
-    <string name="app_name">AndroidProject</string>
+    <string name="app_name">Sea++</string>
+
     <string name="title">Sea++</string>
     <string name="username_hint">Username</string>
     <string name="email_hint">Email Address</string>
@@ -10,8 +11,27 @@
     <string name="sea_level_button_text">Sea Level</string>
     <string name="information_button_text">Information</string>
     <string name="signup_button_text">Sign Up</string>
-    <string name="information_text">Information text</string>
+
     <string name="year_text">Year</string>
     <string name="global_sea_level_text">The pace of ...</string>
+
+
+    <string name="info">Information</string>
+    <string name="information_text">In some ocean basins, sea level has
+        risen as much as 6-8 inches (15-20 centimeters) since the start
+        of the satellite record in 1993.</string>
+    <string name="causesBtn">Causes</string>
+    <string name="preventionBtn">Prevention</string>
+    <string name="contributeBtn">Contribute</string>
+
+
+    <string name="causesPage">Causes</string>
+    <string name="preventionPage">Prevention</string>
+    <string name="contributePage">Contribute</string>
+    <string name="payment_CardName">Card Name</string>
+    <string name="payment_CardNum">Card Number</string>
+    <string name="payment_cvv">CVV</string>
+    <string name="payment_expiry">MM/YY</string>
+    <string name="payment_btn">Donate</string>
     <string name="title_activity_maps">Maps</string>
 </resources>

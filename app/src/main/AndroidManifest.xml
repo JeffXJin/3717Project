@@ -41,22 +41,35 @@
         </activity>
 
         <activity
+            android:name=".ContributeActivity"
+            android:exported="true"
+            android:label="@string/info" />
+        <activity
+            android:name=".PreventionActivity"
+            android:exported="true"
+            android:label="@string/info"/>
+        <activity
+            android:name=".CausesActivity"
+            android:exported="true"
+            android:label="@string/info" />
+        <activity
             android:name=".GlobalSeaLevelActivity"
             android:exported="true" />
         <activity
-            android:name="ca.bcit.androidproject.SeaLevelHistroyActivity"
+            android:name=".SeaLevelHistroyActivity"
             android:exported="true" />
         <activity
-            android:name="ca.bcit.androidproject.InformationActivity"
+            android:name=".InformationActivity"
+            android:exported="true"
+            android:label="@string/info" />
+        <activity
+            android:name=".MainPageActivity"
             android:exported="true" />
         <activity
-            android:name="ca.bcit.androidproject.MainPageActivity"
+            android:name=".CreateAccountActivity"
             android:exported="true" />
         <activity
-            android:name="ca.bcit.androidproject.CreateAccountActivity"
-            android:exported="true" />
-        <activity
-            android:name="ca.bcit.androidproject.MainActivity"
+            android:name=".MainActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
