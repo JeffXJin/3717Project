@@ -13,4 +13,5 @@
     <string name="information_text">Information text</string>
     <string name="year_text">Year</string>
     <string name="global_sea_level_text">The pace of ...</string>
+    <string name="title_activity_maps">Maps</string>
 </resources>
