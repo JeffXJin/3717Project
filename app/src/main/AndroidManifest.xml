@@ -10,6 +10,18 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.AndroidProject">
         <activity
+            android:name=".ContributeActivity"
+            android:exported="true"
+            android:label="@string/info"/>
+        <activity
+            android:name=".PreventionActivity"
+            android:exported="true"
+            android:label="@string/info"/>
+        <activity
+            android:name=".CausesActivity"
+            android:exported="true"
+            android:label="@string/info" />
+        <activity
             android:name=".GlobalSeaLevelActivity"
             android:exported="true" />
         <activity
@@ -17,7 +29,8 @@
             android:exported="true" />
         <activity
             android:name=".InformationActivity"
-            android:exported="true" />
+            android:exported="true"
+            android:label="@string/info" />
         <activity
             android:name=".MainPageActivity"
             android:exported="true" />
